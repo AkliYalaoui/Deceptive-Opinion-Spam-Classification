@@ -31,3 +31,6 @@ This project involves the critical analysis of a scientific community article ti
 5. **Algorithmic and Computational Enhancements:**
    - Propose algorithmic modifications to improve the performance of the deceptive opinion spam classification.
    - Suggest optimizations to the computational implementation provided by the authors.
+
+
+[Download Datasets](https://drive.google.com/drive/folders/1qbt9TO9eMAbXfWQzgjI-wPbTPtcoVRf1)
